@@ -14,7 +14,7 @@ in your head section
 2. Create a button with
 
 ```javascript
-onclick="Advice()
+onclick="Advice()"
 ```
 property.
 
